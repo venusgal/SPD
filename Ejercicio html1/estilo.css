@@ -1,0 +1,10 @@
+body{background-color: rgb(32, 33, 34);}
+p{color: aliceblue}
+h1{color: aliceblue}
+h2{color: aliceblue}
+ul{color: aliceblue;}
+nav{color: blueviolet;}
+aside{float: right;
+display: inline;}
+footer{background-color: blueviolet;
+float: center;}
